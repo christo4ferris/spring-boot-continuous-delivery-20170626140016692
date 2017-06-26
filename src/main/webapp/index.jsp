@@ -5,7 +5,7 @@
     <title>Create a new account</title>
 </head>
 <body>
-    <h2>Create a new account</h2>
+    <h2>Create a new JPMC account</h2>
     <p>Enter your name and click submit to open a new account.</p>
     <form method="post" action="/account">
 	    <label for="name">Name:</label>

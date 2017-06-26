@@ -3,7 +3,7 @@
 <html lang="en">
 <head>
     <meta charset="UTF-8">
-    <title>New account created</title>
+    <title>New JPMC account created</title>
 </head>
 <body>
 	<h2>Account created</h2>
